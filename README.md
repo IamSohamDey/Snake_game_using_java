@@ -13,8 +13,6 @@ Download all the files given into your local machine.
 ---------
 STEP - 2
 ---------
-Run the main.java 
+Run the main.java And ENJOY !!!
 ---------
-STEP - 3
----------
-ENJOY !!
+
