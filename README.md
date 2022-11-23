@@ -14,6 +14,6 @@ STEP - 2 >>
 Run the main.java
 
 STEP - 3 >>
-And ENJOY !!!
+ENJOY !!!
 
 
