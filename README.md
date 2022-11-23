@@ -7,13 +7,13 @@ This project has the codes to make the Classic Snake Game which has the followin
 
 HOW TO PLAY ?
 ---------
-STEP - 1 
+STEP - 1 >>
 Download all the files given into your local machine.
 
-STEP - 2
+STEP - 2 >>
 Run the main.java
 
-STEP - 3
+STEP - 3 >>
 And ENJOY !!!
 
 
